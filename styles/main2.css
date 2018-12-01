@@ -1,0 +1,43 @@
+#map1 {
+  height: 400px;
+  width: 100%;
+  margin-top: 3em;
+  border: 1px solid #000;
+}
+
+
+div {
+  margin: auto;
+}
+
+h1 {
+  font-family: 'Fredoka One', Georgia, serif;
+  color: #563A69;
+  font-size: 300%;
+  text-align: center;
+}
+
+p {
+  font-family: 'Roboto', Arial, sans-serif;
+  color: #563A69;
+  text-align: center;
+
+}
+
+@media (max-width: 700px) {
+
+  body {
+    margin: 0;
+    padding: 0;
+    }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  p {
+    text-align: left;
+
+  }
+
+}

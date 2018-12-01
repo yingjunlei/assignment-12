@@ -1,0 +1,123 @@
+places = [
+   {
+     "name": "Sushi Inoue",
+     "url": "https://www.sushiinoue.com",
+     "lat": 40.810640,
+     "lng": -73.943863
+   },
+   {
+     "name": "Peter Luger Steak House",
+     "url": "https://www.peterluger.com",
+     "lat": 40.709814,
+     "lng": -73.962469
+   },   
+   {
+     "name": "The Musket Room",
+     "url": "http://www.themusketroom.com/",
+     "lat": 40.723922,
+     "lng": -73.993821
+   },   
+   {
+     "name": "The Clocktower",
+     "url": "http://theclocktowernyc.com/",
+     "lat": 40.741252,
+     "lng": -73.987532
+   },   
+   {
+     "name": "Sushi Zo",
+     "url": "http://sushizo.us/",
+     "lat": 40.729830,
+     "lng": -73.999167
+   },   
+   {
+     "name": "Junoon",
+     "url": "http://junoonnyc.com/",
+     "lat": 40.743057, 
+     "lng": -73.990857
+   },      
+   {
+     "name": "The Finch",
+     "url": "http://www.thefinchnyc.com/",
+     "lat": 40.686816,
+     "lng": -73.962877
+   }, 
+   {
+     "name": "Gramercy Tavern",
+     "url": "http://www.gramercytavern.com/",
+     "lat": 40.739021, 
+     "lng": -74.005793
+   }, 
+   {
+     "name": "Wallsé",
+     "url": "https://www.kurtgutenbrunner.com",
+     "lat": 40.735416, 
+     "lng": -74.008203
+   }, 
+   {
+     "name": "Rouge Tomate Chelsea",
+     "url": "https://www.rougetomatechelsea.com",
+     "lat": 40.740215, 
+     "lng": -73.996268
+   }, 
+   {
+     "name": "Caviar Russe",
+     "url": "https://www.caviarrusse.com",
+     "lat": 40.760765, 
+     "lng": -73.973854
+   }, 
+   {
+     "name": "Casa Enrique",
+     "url": "https://www.henrinyc.com",
+     "lat": 40.743410, 
+     "lng": -73.954229
+   }, 
+   {
+     "name": "Ai Fiori",
+     "url": "https://www.aifiorinyc.com",
+     "lat": 40.750071, 
+     "lng": -73.983782
+   }, 
+   {
+     "name": "Satsuki",
+     "url": "https://www.satsuki.nyc",
+     "lat": 40.758269, 
+     "lng": -73.982809
+   }, 
+   {
+     "name": "Le Bernardin",
+     "url": "https://www.le-bernardin.com",
+     "lat": 40.761563, 
+     "lng": -73.981802
+   }, 
+   {
+     "name": "The Modern",
+     "url": "https://www.themodernnyc.com",
+     "lat": 40.761033, 
+     "lng": -73.976654
+   },    
+   {
+     "name": "Aquavit",
+     "url": "https://www.aquavit.org",
+     "lat": 40.760853, 
+     "lng": -73.972089
+   }, 
+   {
+     "name": "Tempura Matsui",
+     "url": "https://www.tempuramatsui.com",
+     "lat": 40.748159, 
+     "lng": -73.974930
+   }   
+   {
+     "name": "Café China",
+     "url": "https://www.cafechinanyc.com",
+     "lat": 40.750057, 
+     "lng": -73.982159
+   },
+   {
+     "name": "Nix",
+     "url": "https://www.nixny.com",
+     "lat": 40.733244,  
+     "lng": -73.993672
+   } 
+]  
+   ;
